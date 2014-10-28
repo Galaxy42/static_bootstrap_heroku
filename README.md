@@ -17,7 +17,7 @@ Static_bootstrap_heroku
 
 Crea tu propio proyecto a partir de él(Lo que estabas esperando, el famoso botón).
 ============================================================================
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+<!-- [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy) -->
 
 Como usarlo
 ================================
