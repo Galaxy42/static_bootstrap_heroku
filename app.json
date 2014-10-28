@@ -1,0 +1,7 @@
+{
+  "name": "Static Bootstrap Heroku Site",
+  "description": "A simple static site that uses Bootstrap.",
+  "repository": "https://github.com/Galaxy42/static_bootstrap_heroku",
+  "logo": "https://raw.githubusercontent.com/twbs/bootstrap/master/docs/apple-touch-icon.png",
+  "keywords": ["static", "Bootstrap", "static Bootstrap", "simple", "HTML", "framework"]
+}
